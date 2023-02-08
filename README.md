@@ -13,7 +13,7 @@ npx hardhat run scripts/deploy.js
 ```
 
 # Functionalities
-```shell
+```
 1: PreSale/Sale(preSale limit 30mints)(sale 1hour) (done)
 2: WhiteListUser(merkle tree root)
 4: TotalSupply(1691) (done)
