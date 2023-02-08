@@ -13,7 +13,7 @@ npx hardhat run scripts/deploy.js
 ```
 
 # Functionalities
-
+```shell
 1: PreSale/Sale(preSale limit 30mints)(sale 1hour) (done)
 2: WhiteListUser(merkle tree root)
 4: TotalSupply(1691) (done)
@@ -25,3 +25,4 @@ npx hardhat run scripts/deploy.js
 10: Reserve(50 nft Reserve for owner)
 11: Status(TotalMinted NFTs, Total NFts MInted by owner, PreSale(Start&endTime), Sale(Start&endTime),Price(presale&sale),TotalSuply,Owneraddress,limitofusermint)
 12: ERC20 half reserved for owner and half of users
+```
